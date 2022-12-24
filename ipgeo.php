@@ -9,6 +9,7 @@ Blog      : https://blog.wildy.my.id
 Github    : https://github.com/wildy1050
 Telegram  : https://t.me/wildy1050
 Whatsapp  : https://wa.me/6285925001050
+Language  : PHP
 
 This code is used to retrieve network information from visitors
 and is released under the "Mozilla Public License Version 2.0".
