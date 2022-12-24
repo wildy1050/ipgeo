@@ -16,6 +16,7 @@
 #
 # ============================================================================================
 
+# Import requests
 import requests
 
 # Request to api gateway using requests
@@ -37,15 +38,15 @@ ipgeo_timezone = result_decode['timezone']
 ipgeo_useragent = result_decode['user_agent'] # If you want to use the response from the API, add useragent in the curl.
 
 # Output result using echo
-print("Response : " + ipgeo_respon)
-print("IP : " + ipgeo_ip)
-print("ASN : " + ipgeo_asn)
-print("ISP : " + ipgeo_isp)
-print("Region : " + ipgeo_region)
-print("City : " + ipgeo_city)
-print("Country : " + ipgeo_country)
-print("Date : " + ipgeo_date)
-print("Time : " + ipgeo_time)
-print("Datetime : " + ipgeo_datetime)
-print("TimeZone : " + ipgeo_timezone)
-print("UserAgent : " + USER_AGENT)
+print("Response : ", ipgeo_respon)
+print("IP : ", ipgeo_ip)
+print("ASN : ", ipgeo_asn)
+print("ISP : ", ipgeo_isp)
+print("Region : ", ipgeo_region)
+print("City : ", ipgeo_city)
+print("Country : ", ipgeo_country)
+print("Date : ", ipgeo_date)
+print("Time : ", ipgeo_time)
+print("Datetime : ", ipgeo_datetime)
+print("TimeZone : ", ipgeo_timezone)
+print("UserAgent : ", ipgeo_useragent)
