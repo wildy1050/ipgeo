@@ -1,1 +1,1 @@
-# ipgeo
+# Free IP Geolocation API
