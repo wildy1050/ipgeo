@@ -1,11 +1,14 @@
 /*
 Copyright (C) 2022-2023 by < wildy1050 > / < Wildy Sheverando >
+
 Author    : Wildy Sheverando
 Date      : 2022-12-24
 Blog      : https://blog.wildy.my.id
 Github    : https://github.com/wildy1050
 Telegram  : https://t.me/wildy1050
 Whatsapp  : https://wa.me/6285925001050
+Language  : JavaScript
+
 This code is used to retrieve network information from visitors
 and is released under the "Mozilla Public License Version 2.0".
 Please see < https://raw.githubusercontent.com/wildy1050/ipgeo/main/LICENSE >
