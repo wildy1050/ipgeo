@@ -13,7 +13,7 @@ Language  : PHP
 
 This code is used to retrieve network information from visitors
 and is released under the "Mozilla Public License Version 2.0".
-Please see < https://raw.githubusercontent.com/wildy1050/ipgeo/main/LICENSE >
+Please see < https://raw.githubusercontent.com/wildy1050/license/main/mpl-v2 >
 */
 
 // Request to api gateway using curl init
