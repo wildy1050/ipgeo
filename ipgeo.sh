@@ -36,7 +36,7 @@ export ipgeo_timezone="$(echo "$PARSE_JSON" | jq -r '.timezone')"
 export ipgeo_useragent="$(echo "$PARSE_JSON" | jq -r '.user_agent')"
 
 # Output result using echo
-echo "Response  : ${ipgeo_respone}"
+echo "Response  : ${ipgeo_respon}"
 echo "IP        : ${ipgeo_ip}"
 echo "ASN       : ${ipgeo_asn}"
 echo "ISP       : ${ipgeo_isp}"
